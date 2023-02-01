@@ -1,4 +1,4 @@
-# Hivestack_integration
+# Hivestack integration
 Hello! This is my attempt that developing an integration between Hivestack's platform and a Legacy CMS system. To begin, first download all the necessary modules from 
 requirements.txt. Then, follow these instructions:
 1. Go to the folder on your terminal
